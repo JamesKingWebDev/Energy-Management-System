@@ -1,7 +1,7 @@
 
   # Energy Management System Dashboard
 
-  This is a code bundle for Energy Management System Dashboard. The original project is available at https://www.figma.com/design/iLSGGAL5zsXzhCzCEgxUcQ/Energy-Management-System-Dashboard.
+A clean and intuitive dashboard system built as a dream project.
 
   ## Running the code
 
