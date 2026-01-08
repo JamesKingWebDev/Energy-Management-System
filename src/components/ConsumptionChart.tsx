@@ -5,7 +5,6 @@ interface ConsumptionChartProps {
   selectedDay: string;
   selectedDevice: string;
 }
-
 export function ConsumptionChart({ selectedDay, selectedDevice }: ConsumptionChartProps) {
   // Mock data - in real app this would come from API based on filters
   const consumptionData = [
