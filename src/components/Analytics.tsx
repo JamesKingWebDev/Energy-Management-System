@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Calendar, Download, Leaf, TrendingUp, Zap, Activity, BarChart3, Waves } from "lucide-react";
+import { Download, Leaf, TrendingUp, Zap, Activity, BarChart3, Waves } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
 import { Button } from "./ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./ui/select";

@@ -15,6 +15,7 @@ interface AnalyticsData {
   kvarh_lag: number;
   kvarh_lead: number;
   co2_emissions: number;
+  
 }
 
 interface AnalyticsChartProps {

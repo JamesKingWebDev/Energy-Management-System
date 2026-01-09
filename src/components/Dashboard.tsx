@@ -20,6 +20,7 @@ export function Dashboard() {
       devices: selectedDevices,
       dataMode,
       selectedDay,
+      selectedFilterType
     });
   };
 
